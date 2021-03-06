@@ -20,7 +20,7 @@
 ## United Nations Geneva
 | Title  | Name  | CDM | Source | Screenshot Proof | Education
 |--|--|--|--|--|--|
-|Permanent Representative| Myint Thu | Resigned | [UN Times Via @mrattkthu](https://twitter.com/TheUNTimes/status/1364571740635037697?s=20) | [Imgur](https://imgur.com/a/eMnqv41) | Bachelor Degree of Agriculture - Yezin 1985. Master in Public Administration - Lee Kuan Yew School of Public Policy (LKYSPP) 2009
+|Permanent Representative| Myint Thu | Resigned | @mrattkthu | [Imgur](https://imgur.com/a/eMnqv41) | Bachelor Degree of Agriculture - Yezin 1985. Master in Public Administration - Lee Kuan Yew School of Public Policy (LKYSPP) 2009
 | Ambassador | Ei Ei Tin |  |  |  | 
 | Deputy Permanent Representative | Nyan Moe Thinn |  |  |  | 
 | Minister Counsellor | Yin Po Myat |  |  |  | 
