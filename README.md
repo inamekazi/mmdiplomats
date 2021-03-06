@@ -27,14 +27,14 @@
 | Counsellor (WTO Affairs) | Toh Toh Win |  |  |  | 
 | Counsellor | Zen Sian Hung |  |  |  | 
 | First Secretary | Aye Myat Myat Myo |  |  |  | 
-| First Secretary | Khaing Sandi Win Min |  |  |  |
+| First Secretary | Khaing Sandi Win Min | Yes | CRPH_International Relations Office | [Imgur](https://imgur.com/a/MRvF96Y)
 | Unknown Title | Aye Chan Maung |  |  |  |
-| First Secretary | Htwe Tra Nandi |  |  |  |
+| First Secretary | Htwe Tra Nandi | Yes  | CRPH_International Relations Office | [Imgur](https://imgur.com/a/vK1Ofvc)
 | Unknown Title | Wanna Tun |  |  |  |
-| Second Secretary | Khin Chan Myae |  |  |  | 
+| Second Secretary | Khin Chan Myae | Yes | CRPH_International Relations Office | [Imgur](https://imgur.com/a/MRvF96Y)
 | Third Secretary | Hla Myat Oo |  | | 
 | Unknown Title | Myo Sandar |  |  |  | 
-| Third Secretary | Kyaw Kyaw Lwin |  | | 
+| Third Secretary | Kyaw Kyaw Lwin | Yes | CRPH_International Relations Office | [Imgur](https://imgur.com/a/FKIA4YR)
 | Unknown Title | Hla Myat San |  |  |  |
 | Third Secretary | Myo Lynn Aung |  | | 
 | Unknown Title | Ohn Mar Oo |  |  |  | 
