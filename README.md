@@ -22,3 +22,9 @@
 |--|--|--|--|--|--|
 |Permanent Representative| Myint Thu | Resigned | [UN Times Via @mrattkthu](https://twitter.com/TheUNTimes/status/1364571740635037697?s=20) | [Imgur](https://imgur.com/a/eMnqv41) | Bachelor Degree of Agriculture - Yezin 1985. Master in Public Administration - Lee Kuan Yew School of Public Policy (LKYSPP) 2009
 |**More Personnel to be added later**|  |  |  |  | 
+
+
+## Israel - Tel Aviv
+| Title  | Name  | CDM | Source | Screenshot Proof | Education
+|--|--|--|--|--|--|
+|Second Secretary| Kaung Htet | Yes| [CRPH_International Relations Office](https://www.facebook.com/crph.ir.office/posts/111094867703029) | [Imgur](https://imgur.com/a/C5vPN4v) | 
