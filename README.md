@@ -1,8 +1,4 @@
-# Tracking Myanmar Diplomats who are with the People.
-
-
-
-# Mission
+# Tracking Myanmar Diplomats who are with the People
 
 ## United Nations New York
 | Title  | Name  | CDM | Source | Screenshot Proof | Education
