@@ -21,7 +21,25 @@
 | Title  | Name  | CDM | Source | Screenshot Proof | Education
 |--|--|--|--|--|--|
 |Permanent Representative| Myint Thu | Resigned | [UN Times Via @mrattkthu](https://twitter.com/TheUNTimes/status/1364571740635037697?s=20) | [Imgur](https://imgur.com/a/eMnqv41) | Bachelor Degree of Agriculture - Yezin 1985. Master in Public Administration - Lee Kuan Yew School of Public Policy (LKYSPP) 2009
-|**More Personnel to be added later**|  |  |  |  | 
+| Ambassador | Ei Ei Tin |  |  |  | 
+| Deputy Permanent Representative | Nyan Moe Thinn |  |  |  | 
+| Minister Counsellor | Yin Po Myat |  |  |  | 
+| Counsellor (WTO Affairs) | Toh Toh Win |  |  |  | 
+| Counsellor | Zen Sian Hung |  |  |  | 
+| First Secretary | Aye Myat Myat Myo |  |  |  | 
+| First Secretary | Khaing Sandi Win Min |  |  |  |
+| Unknown Title | Aye Chan Maung |  |  |  |
+| First Secretary | Htwe Tra Nandi |  |  |  |
+| Unknown Title | Wanna Tun |  |  |  |
+| Second Secretary | Khin Chan Myae |  |  |  | 
+| Third Secretary | Hla Myat Oo |  | | 
+| Unknown Title | Myo Sandar |  |  |  | 
+| Third Secretary | Kyaw Kyaw Lwin |  | | 
+| Unknown Title | Hla Myat San |  |  |  |
+| Third Secretary | Myo Lynn Aung |  | | 
+| Unknown Title | Ohn Mar Oo |  |  |  | 
+| Attaché| Lei Lei Hnin Shein |  | |  
+| Unknown Title | Hlaing Myo Lwin |  | | 
 
 
 ## Israel - Tel Aviv
