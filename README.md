@@ -41,6 +41,11 @@
 | Attaché| Lei Lei Hnin Shein |  | |  
 | Unknown Title | Hlaing Myo Lwin |  | | 
 
+## United States - Los Angeles
+| Title  | Name  | CDM | Source | Screenshot Proof | Education
+|--|--|--|--|--|--|
+|Consul-General| Aung Kyaw Naing | Yes | CRPH_International Relations Office | [RFA Burmese](https://fb.watch/42PE6YrxOS/) | 
+
 
 ## Israel - Tel Aviv
 | Title  | Name  | CDM | Source | Screenshot Proof | Education
