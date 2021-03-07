@@ -79,7 +79,7 @@
 ## Germany - Berlin
 | Title  | Name  | CDM | Source | Screenshot Proof | Note
 |--|--|--|--|--|--|
-| Ambassador | Yin Yin Myint |  |  |  |
+| Ambassador | Yin Yin Myint | NO |  |  |
 | Third Secretary | Chaw Kalayar | Yes | [CRPH_International Relations Office](https://www.facebook.com/story.php?story_fbid=109942324484950&id=101438218668694) | [Imgur](https://imgur.com/a/KoYiy6R) | 
 | Attaché | Myat Zar Zar Khaing | Yes | [CRPH_International Relations Office](https://facebook.com/story.php?story_fbid=109960931149756&id=101438218668694) | [Imgur](https://imgur.com/a/5xaUNpk) | 
 
@@ -130,6 +130,11 @@
 | Title  | Name  | CDM | Source | Screenshot Proof | Note
 |--|--|--|--|--|--|
 | Ambassador | Sein Oo |  |  |  | 
+
+## Norway - Oslo
+| Title  | Name  | CDM | Source | Screenshot Proof | Note
+|--|--|--|--|--|--|
+| Ambassador | Maw Maw | NO |  |  | 
 
 ## Pakistan - Islamabad
 | Title  | Name  | CDM | Source | Screenshot Proof | Note
