@@ -1,6 +1,10 @@
 # Tracking Myanmar Diplomats who are with the People
 
 
+## Australia - Canberra
+| Title  | Name  | CDM | Source | Screenshot Proof | Note
+|--|--|--|--|--|--|
+| Ambassador | Thar Aung Nyun |  |  |  | 
 
 ## Germany - Berlin
 | Title  | Name  | CDM | Source | Screenshot Proof | Note
