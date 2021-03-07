@@ -6,13 +6,82 @@
 |--|--|--|--|--|--|
 | Ambassador | Thar Aung Nyun |  |  |  | 
 
+## Austria - Vienna
+| Title  | Name  | CDM | Source | Screenshot Proof | Note
+|--|--|--|--|--|--|
+| Ambassador | Min Thein |  |  |  | 
+
+## Bangladesh - Dhaka
+| Title  | Name  | CDM | Source | Screenshot Proof | Note
+|--|--|--|--|--|--|
+| Ambassador | Aung Kyaw Moe |  |  |  | 
+
+## Belgium - Brussels
+| Title  | Name  | CDM | Source | Screenshot Proof | Note
+|--|--|--|--|--|--|
+| Ambassador | Soe Lynn Han |  |  |  | 
+
+## Brunei - Bandar Sri Begawan
+| Title  | Name  | CDM | Source | Screenshot Proof | Note
+|--|--|--|--|--|--|
+| Ambassador | Htin Lin |  |  |  | 
+
+## Cambodia - Phnom Penh
+| Title  | Name  | CDM | Source | Screenshot Proof | Note
+|--|--|--|--|--|--|
+| Ambassador | Hau Khan Sum |  |  |  | 
+
+## China - Beijing
+| Title  | Name  | CDM | Source | Screenshot Proof | Note
+|--|--|--|--|--|--|
+| Ambassador | Myo Thant Pe |  |  |  | 
+
+## Hong Kong
+| Title  | Name  | CDM | Source | Screenshot Proof | Note
+|--|--|--|--|--|--|
+| Consul-General |  |  |  |  | 
+
+## China - Kungmin
+| Title  | Name  | CDM | Source | Screenshot Proof | Note
+|--|--|--|--|--|--|
+| Ambassador | |  |  |  | 
+
+## China - Naning
+| Title  | Name  | CDM | Source | Screenshot Proof | Note
+|--|--|--|--|--|--|
+| Ambassador |  |  |  |  | 
+
+## Canada - Ottawa
+| Title  | Name  | CDM | Source | Screenshot Proof | Note
+|--|--|--|--|--|--|
+| Ambassador | Thit Lin Ohn |  |  |  | 
+
+## Cuba - Havana
+| Title  | Name  | CDM | Source | Screenshot Proof | Note
+|--|--|--|--|--|--|
+| Chargés d'affaires ad interim | Kyaw Nyunt Oo |  |  |  | 
+
+## Czech Republic - Prague
+| Title  | Name  | CDM | Source | Screenshot Proof | Note
+|--|--|--|--|--|--|
+| Ambassador | Kay Thi Soe |  |  |  | 
+
+## Egypt - Cairo
+| Title  | Name  | CDM | Source | Screenshot Proof | Note
+|--|--|--|--|--|--|
+| Ambassador | Myint Lwin |  |  |  | 
+
+## France - Paris
+| Title  | Name  | CDM | Source | Screenshot Proof | Note
+|--|--|--|--|--|--|
+| Ambassador | Kyaw Zeya |  |  |  |
+
 ## Germany - Berlin
 | Title  | Name  | CDM | Source | Screenshot Proof | Note
 |--|--|--|--|--|--|
+| Ambassador | Yin Yin Myint |  |  |  |
 | Third Secretary | Chaw Kalayar | Yes | [CRPH_International Relations Office](https://www.facebook.com/story.php?story_fbid=109942324484950&id=101438218668694) | [Imgur](https://imgur.com/a/KoYiy6R) | 
 | Attaché | Myat Zar Zar Khaing | Yes | [CRPH_International Relations Office](https://facebook.com/story.php?story_fbid=109960931149756&id=101438218668694) | [Imgur](https://imgur.com/a/5xaUNpk) | 
-
-
 
 ## Israel - Tel Aviv
 | Title  | Name  | CDM | Source | Screenshot Proof | Note
