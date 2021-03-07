@@ -111,21 +111,112 @@
 | First Secretary | Aung Soe Moe | Yes | [CRPH_International Relations Office](https://facebook.com/story.php?story_fbid=111582130987636&id=101438218668694) | [Imgur](https://imgur.com/a/Pi7PvWY) | 
 | Second Secretary | Eindra Than | Yes | [CRPH_International Relations Office](https://facebook.com/story.php?story_fbid=111574067655109&id=101438218668694) | [Imgur](https://imgur.com/a/mSVRtrT) | 
 
-## United Nations New York
+## Kuwait - Kuwait
 | Title  | Name  | CDM | Source | Screenshot Proof | Note
 |--|--|--|--|--|--|
-|Permanent Representative| Kyaw Moe Tun | Yes | [Reuters](https://www.reuters.com/article/us-myanmar-politics-un/myanmars-u-n-ambassador-appeals-for-action-to-stop-coup-idUSKBN2AQ2FX) | N/A
-|Deputy Permanent Representative| Tin Maung Naing | Unclear |  |  | 
-| Minister Counsellor | Aye Thidar Myo |  |  |  | 
-| Minister Counsellor | Nyan Lin Aung |  |  |  | 
-| First Secretary | Pwint Phyu Thin |  |  |  | 
-| First Secretary | Su Nandar Hlaing |  |  |  | 
-| Second Secretary | Nyein Zaw |  |  |  |
-| Second Secretary | Kyaw Zeya |  |  |  |
-| Second Secretary | Khant Ko Ko |  |  |  | 
-| Chief of Chancery | Khin Lay Myint |  | |  
-| Attaché | Aung Cho Myint |  | |  
-| Attaché | Zaw Zaw Aung |  | |  
+| Ambassador | VACANT |  |  |  | 
+
+## Laos - Vientiane
+| Title  | Name  | CDM | Source | Screenshot Proof | Note
+|--|--|--|--|--|--|
+| Ambassador | Ko Ko Naing |  |  |  | 
+
+## Malaysia - Kuala Lumpur
+| Title  | Name  | CDM | Source | Screenshot Proof | Note
+|--|--|--|--|--|--|
+| Ambassador | Aung Soe Win |  |  |  | 
+
+## Nepal - Kathamandu
+| Title  | Name  | CDM | Source | Screenshot Proof | Note
+|--|--|--|--|--|--|
+| Ambassador | Sein Oo |  |  |  | 
+
+## Pakistan - Islamabad
+| Title  | Name  | CDM | Source | Screenshot Proof | Note
+|--|--|--|--|--|--|
+| Ambassador | Win Myint |  |  |  | 
+
+## Philliphines - Manilla
+| Title  | Name  | CDM | Source | Screenshot Proof | Note
+|--|--|--|--|--|--|
+| Ambassador | Lwin Oo |  |  |  | 
+
+## Russia - Moscow
+| Title  | Name  | CDM | Source | Screenshot Proof | Note
+|--|--|--|--|--|--|
+| Ambassador | Ko Ko Shyne |  |  |  | 
+
+## Saudi Arabia - Riyadh
+| Title  | Name  | CDM | Source | Screenshot Proof | Note
+|--|--|--|--|--|--|
+| Ambassador | Tin Yu |  |  |  | 
+
+## Serbia - Belgrade
+| Title  | Name  | CDM | Source | Screenshot Proof | Note
+|--|--|--|--|--|--|
+| Ambassador | Thurein Thant Zin |  |  |  | 
+
+## Singapore
+| Title  | Name  | CDM | Source | Screenshot Proof | Note
+|--|--|--|--|--|--|
+| Ambassador | Htay Aung |  |  |  | 
+
+## South Africa - Pretoria
+| Title  | Name  | CDM | Source | Screenshot Proof | Note
+|--|--|--|--|--|--|
+| Ambassador | Myint Swe |  |  |  | 
+
+## South Korea - Seoul
+| Title  | Name  | CDM | Source | Screenshot Proof | Note
+|--|--|--|--|--|--|
+| Ambassador | Thant Sin |  |  |  | 
+
+## Sri Lanka - Colombo
+| Title  | Name  | CDM | Source | Screenshot Proof | Note
+|--|--|--|--|--|--|
+| Ambassador | Han Thu |  |  |  | 
+
+## Taiwan - Taipei
+| Title  | Name  | CDM | Source | Screenshot Proof | Note
+|--|--|--|--|--|--|
+| Unknown Title | Thet Lwin Oo |  |  |  | 
+
+## Thailand - Bangkok
+| Title  | Name  | CDM | Source | Screenshot Proof | Note
+|--|--|--|--|--|--|
+| Ambassador | Myo Myint Than |  |  |  | 
+
+## Thailand - Chaing Mai
+| Title  | Name  | CDM | Source | Screenshot Proof | Note
+|--|--|--|--|--|--|
+| Consul-General |  |  |  |  | 
+
+## United Kingdom - London
+| Title  | Name  | CDM | Source | Screenshot Proof | Note
+|--|--|--|--|--|--|
+| Ambassdor | Kyaw Zwar Min  |  |  |  | 
+
+## United States - Washington DC
+| Title  | Name  | CDM | Source | Screenshot Proof | Education
+|--|--|--|--|--|--|
+| Unknown Title | Kyaw Swar Tun | Yes | [CRPH_International Relations Office](https://www.facebook.com/story.php?story_fbid=109977467814769&id=101438218668694) | [Imgur](https://imgur.com/a/iPteVTN) | 
+
+## United States - Los Angeles
+| Title  | Name  | CDM | Source | Screenshot Proof | Note
+|--|--|--|--|--|--|
+| Consul-General | Aung Kyaw Naing | Yes | CRPH_International Relations Office | [RFA Burmese](https://fb.watch/42PE6YrxOS/) | 
+| Chargé d'affaires | Myat Zar Zar Khaing | Yes | [CRPH_International Relations Office](https://www.facebook.com/story.php?story_fbid=107900388022477&id=101438218668694) | [Imgur](https://imgur.com/a/wjxooGI) | 
+
+## United States - Los Angeles
+| Title  | Name  | CDM | Source | Screenshot Proof | Note
+|--|--|--|--|--|--|
+| Consul-General | Kyaw Zwar Min  |  |  |  | 
+
+---
+## European Union - Brussels
+| Title  | Name  | CDM | Source | Screenshot Proof | Note
+|--|--|--|--|--|--|
+| Ambassador | Soe Lynn Han  |  |  |  | 
 
 
 ## United Nations Geneva
@@ -152,13 +243,27 @@
 | Attaché| Lei Lei Hnin Shein |  | |  
 | Unknown Title | Hlaing Myo Lwin |  | | 
 
-## United States - Washington DC
-| Title  | Name  | CDM | Source | Screenshot Proof | Education
-|--|--|--|--|--|--|
-| Unknown Title | Kyaw Swar Tun | Yes | [CRPH_International Relations Office](https://www.facebook.com/story.php?story_fbid=109977467814769&id=101438218668694) | [Imgur](https://imgur.com/a/iPteVTN) | 
 
-## United States - Los Angeles
+## United Nations New York
 | Title  | Name  | CDM | Source | Screenshot Proof | Note
 |--|--|--|--|--|--|
-| Consul-General | Aung Kyaw Naing | Yes | CRPH_International Relations Office | [RFA Burmese](https://fb.watch/42PE6YrxOS/) | 
-| Chargé d'affaires | Myat Zar Zar Khaing | Yes | [CRPH_International Relations Office](https://www.facebook.com/story.php?story_fbid=107900388022477&id=101438218668694) | [Imgur](https://imgur.com/a/wjxooGI) | 
+|Permanent Representative| Kyaw Moe Tun | Yes | [Reuters](https://www.reuters.com/article/us-myanmar-politics-un/myanmars-u-n-ambassador-appeals-for-action-to-stop-coup-idUSKBN2AQ2FX) | N/A
+|Deputy Permanent Representative| Tin Maung Naing | Unclear |  |  | 
+| Minister Counsellor | Aye Thidar Myo |  |  |  | 
+| Minister Counsellor | Nyan Lin Aung |  |  |  | 
+| First Secretary | Pwint Phyu Thin |  |  |  | 
+| First Secretary | Su Nandar Hlaing |  |  |  | 
+| Second Secretary | Nyein Zaw |  |  |  |
+| Second Secretary | Kyaw Zeya |  |  |  |
+| Second Secretary | Khant Ko Ko |  |  |  | 
+| Chief of Chancery | Khin Lay Myint |  | |  
+| Attaché | Aung Cho Myint |  | |  
+| Attaché | Zaw Zaw Aung |  | |  
+
+
+## ASEAN - Jakarta
+| Title  | Name  | CDM | Source | Screenshot Proof | Note
+|--|--|--|--|--|--|
+| Ambassador | Aung Myo Myint  |  |  |  | 
+
+
