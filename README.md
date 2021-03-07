@@ -101,11 +101,13 @@
 ## Israel - Tel Aviv
 | Title  | Name  | CDM | Source | Screenshot Proof | Note
 |--|--|--|--|--|--|
+| Ambassador | Maung Maung Lynn |  |  |  | 
 | Second Secretary | Kaung Htet | Yes | [CRPH_International Relations Office](https://www.facebook.com/crph.ir.office/posts/111094867703029) | [Imgur](https://imgur.com/a/C5vPN4v) | 
 
 ## Japan - Tokyo
 | Title  | Name  | CDM | Source | Screenshot Proof | Note
 |--|--|--|--|--|--|
+| Ambassador | Hmway Hmway Khyne |  |  |  |
 | First Secretary | Aung Soe Moe | Yes | [CRPH_International Relations Office](https://facebook.com/story.php?story_fbid=111582130987636&id=101438218668694) | [Imgur](https://imgur.com/a/Pi7PvWY) | 
 | Second Secretary | Eindra Than | Yes | [CRPH_International Relations Office](https://facebook.com/story.php?story_fbid=111574067655109&id=101438218668694) | [Imgur](https://imgur.com/a/mSVRtrT) | 
 
