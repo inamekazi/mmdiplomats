@@ -44,10 +44,18 @@
 ## United States - Los Angeles
 | Title  | Name  | CDM | Source | Screenshot Proof | Education
 |--|--|--|--|--|--|
-|Consul-General| Aung Kyaw Naing | Yes | CRPH_International Relations Office | [RFA Burmese](https://fb.watch/42PE6YrxOS/) | 
+| Consul-General | Aung Kyaw Naing | Yes | CRPH_International Relations Office | [RFA Burmese](https://fb.watch/42PE6YrxOS/) | 
 
 
 ## Israel - Tel Aviv
 | Title  | Name  | CDM | Source | Screenshot Proof | Education
 |--|--|--|--|--|--|
-|Second Secretary| Kaung Htet | Yes| [CRPH_International Relations Office](https://www.facebook.com/crph.ir.office/posts/111094867703029) | [Imgur](https://imgur.com/a/C5vPN4v) | 
+| Second Secretary | Kaung Htet | Yes | [CRPH_International Relations Office](https://www.facebook.com/crph.ir.office/posts/111094867703029) | [Imgur](https://imgur.com/a/C5vPN4v) | 
+
+
+## Japan - Tokyo
+| Title  | Name  | CDM | Source | Screenshot Proof | Education
+|--|--|--|--|--|--|
+| First Secretary | Aung Soe Moe | Yes | [CRPH_International Relations Office](https://facebook.com/story.php?story_fbid=111582130987636&id=101438218668694) | [Imgur](https://imgur.com/a/pO5VJeOv) | 
+| Second Secretary | Eindra Than | Yes | [CRPH_International Relations Office](https://facebook.com/story.php?story_fbid=111574067655109&id=101438218668694) | [Imgur](https://imgur.com/a/SKsbqL0v) | 
+
