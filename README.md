@@ -13,8 +13,8 @@
 | Second Secretary | Kyaw Zeya |  |  |  |
 | Second Secretary | Khant Ko Ko |  |  |  | 
 | Chief of Chancery | Khin Lay Myint |  | |  
-| Attaché| Aung Cho Myint |  | |  
-| Attaché| Zaw Zaw Aung |  | |  
+| Attaché | Aung Cho Myint |  | |  
+| Attaché | Zaw Zaw Aung |  | |  
 
 
 ## United Nations Geneva
@@ -50,6 +50,13 @@
 | Title  | Name  | CDM | Source | Screenshot Proof | Education
 |--|--|--|--|--|--|
 | Consul-General | Aung Kyaw Naing | Yes | CRPH_International Relations Office | [RFA Burmese](https://fb.watch/42PE6YrxOS/) | 
+
+## Germany - Berlin
+| Title  | Name  | CDM | Source | Screenshot Proof | Education
+|--|--|--|--|--|--|
+| Third Secretary | Chaw Kalayar | Yes | [CRPH_International Relations Office](https://www.facebook.com/story.php?story_fbid=109942324484950&id=101438218668694) | [Imgur](https://imgur.com/a/KoYiy6R) | 
+| Attaché | Myat Zar Zar Khaing | Yes | [CRPH_International Relations Office](https://facebook.com/story.php?story_fbid=109960931149756&id=101438218668694) | [Imgur](https://imgur.com/a/5xaUNpk) | 
+
 
 
 ## Israel - Tel Aviv
