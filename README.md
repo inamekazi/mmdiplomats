@@ -83,11 +83,25 @@
 | Third Secretary | Chaw Kalayar | Yes | [CRPH_International Relations Office](https://www.facebook.com/story.php?story_fbid=109942324484950&id=101438218668694) | [Imgur](https://imgur.com/a/KoYiy6R) | 
 | Attaché | Myat Zar Zar Khaing | Yes | [CRPH_International Relations Office](https://facebook.com/story.php?story_fbid=109960931149756&id=101438218668694) | [Imgur](https://imgur.com/a/5xaUNpk) | 
 
+## India - New Delhi
+| Title  | Name  | CDM | Source | Screenshot Proof | Note
+|--|--|--|--|--|--|
+| Ambassador | Moe Kyaw Aung |  |  |  |
+
+## Indonesia - Jakarta
+| Title  | Name  | CDM | Source | Screenshot Proof | Note
+|--|--|--|--|--|--|
+| Ambassador | Ei Ei Khin |  |  |  |
+
+## Italy - Rome
+| Title  | Name  | CDM | Source | Screenshot Proof | Note
+|--|--|--|--|--|--|
+| Ambassador | Hmway Hmway Khyne |  |  |  |
+
 ## Israel - Tel Aviv
 | Title  | Name  | CDM | Source | Screenshot Proof | Note
 |--|--|--|--|--|--|
 | Second Secretary | Kaung Htet | Yes | [CRPH_International Relations Office](https://www.facebook.com/crph.ir.office/posts/111094867703029) | [Imgur](https://imgur.com/a/C5vPN4v) | 
-
 
 ## Japan - Tokyo
 | Title  | Name  | CDM | Source | Screenshot Proof | Note
