@@ -1,5 +1,5 @@
 # Tracking Myanmar Diplomats who are with the People
-
+> This does not include the new illegal assignments of the illegitimate Military junta SAC
 
 ## Australia - Canberra
 | Title  | Name  | CDM | Source | Screenshot Proof | Note
