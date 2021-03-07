@@ -56,6 +56,6 @@
 ## Japan - Tokyo
 | Title  | Name  | CDM | Source | Screenshot Proof | Education
 |--|--|--|--|--|--|
-| First Secretary | Aung Soe Moe | Yes | [CRPH_International Relations Office](https://facebook.com/story.php?story_fbid=111582130987636&id=101438218668694) | [Imgur](https://imgur.com/a/pO5VJeOv) | 
-| Second Secretary | Eindra Than | Yes | [CRPH_International Relations Office](https://facebook.com/story.php?story_fbid=111574067655109&id=101438218668694) | [Imgur](https://imgur.com/a/SKsbqL0v) | 
+| First Secretary | Aung Soe Moe | Yes | [CRPH_International Relations Office](https://facebook.com/story.php?story_fbid=111582130987636&id=101438218668694) | [Imgur](https://imgur.com/a/Pi7PvWY) | 
+| Second Secretary | Eindra Than | Yes | [CRPH_International Relations Office](https://facebook.com/story.php?story_fbid=111574067655109&id=101438218668694) | [Imgur](https://imgur.com/a/mSVRtrT) | 
 
