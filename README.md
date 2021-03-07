@@ -50,6 +50,7 @@
 | Title  | Name  | CDM | Source | Screenshot Proof | Education
 |--|--|--|--|--|--|
 | Consul-General | Aung Kyaw Naing | Yes | CRPH_International Relations Office | [RFA Burmese](https://fb.watch/42PE6YrxOS/) | 
+| Chargé d'affaires | Myat Zar Zar Khaing | Yes | [CRPH_International Relations Office](https://www.facebook.com/story.php?story_fbid=107900388022477&id=101438218668694) | [Imgur](https://imgur.com/a/wjxooGI) | 
 
 ## Germany - Berlin
 | Title  | Name  | CDM | Source | Screenshot Proof | Education
