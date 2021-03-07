@@ -1,7 +1,7 @@
 # Tracking Myanmar Diplomats who are with the People
 
 ## United Nations New York
-| Title  | Name  | CDM | Source | Screenshot Proof | Education
+| Title  | Name  | CDM | Source | Screenshot Proof | Note
 |--|--|--|--|--|--|
 |Permanent Representative| Kyaw Moe Tun | Yes | [Reuters](https://www.reuters.com/article/us-myanmar-politics-un/myanmars-u-n-ambassador-appeals-for-action-to-stop-coup-idUSKBN2AQ2FX) | N/A
 |Deputy Permanent Representative| Tin Maung Naing | Unclear |  |  | 
@@ -18,7 +18,7 @@
 
 
 ## United Nations Geneva
-| Title  | Name  | CDM | Source | Screenshot Proof | Education
+| Title  | Name  | CDM | Source | Screenshot Proof | Note
 |--|--|--|--|--|--|
 |Permanent Representative| Myint Thu | Resigned | @mrattkthu | [Imgur](https://imgur.com/a/eMnqv41) | Bachelor Degree of Agriculture - Yezin 1985. Master in Public Administration - Lee Kuan Yew School of Public Policy (LKYSPP) 2009
 | Ambassador | Ei Ei Tin |  |  |  | 
@@ -47,13 +47,13 @@
 | Unknown Title | Kyaw Swar Tun | Yes | [CRPH_International Relations Office](https://www.facebook.com/story.php?story_fbid=109977467814769&id=101438218668694) | [Imgur](https://imgur.com/a/iPteVTN) | 
 
 ## United States - Los Angeles
-| Title  | Name  | CDM | Source | Screenshot Proof | Education
+| Title  | Name  | CDM | Source | Screenshot Proof | Note
 |--|--|--|--|--|--|
 | Consul-General | Aung Kyaw Naing | Yes | CRPH_International Relations Office | [RFA Burmese](https://fb.watch/42PE6YrxOS/) | 
 | Chargé d'affaires | Myat Zar Zar Khaing | Yes | [CRPH_International Relations Office](https://www.facebook.com/story.php?story_fbid=107900388022477&id=101438218668694) | [Imgur](https://imgur.com/a/wjxooGI) | 
 
 ## Germany - Berlin
-| Title  | Name  | CDM | Source | Screenshot Proof | Education
+| Title  | Name  | CDM | Source | Screenshot Proof | Note
 |--|--|--|--|--|--|
 | Third Secretary | Chaw Kalayar | Yes | [CRPH_International Relations Office](https://www.facebook.com/story.php?story_fbid=109942324484950&id=101438218668694) | [Imgur](https://imgur.com/a/KoYiy6R) | 
 | Attaché | Myat Zar Zar Khaing | Yes | [CRPH_International Relations Office](https://facebook.com/story.php?story_fbid=109960931149756&id=101438218668694) | [Imgur](https://imgur.com/a/5xaUNpk) | 
@@ -61,13 +61,13 @@
 
 
 ## Israel - Tel Aviv
-| Title  | Name  | CDM | Source | Screenshot Proof | Education
+| Title  | Name  | CDM | Source | Screenshot Proof | Note
 |--|--|--|--|--|--|
 | Second Secretary | Kaung Htet | Yes | [CRPH_International Relations Office](https://www.facebook.com/crph.ir.office/posts/111094867703029) | [Imgur](https://imgur.com/a/C5vPN4v) | 
 
 
 ## Japan - Tokyo
-| Title  | Name  | CDM | Source | Screenshot Proof | Education
+| Title  | Name  | CDM | Source | Screenshot Proof | Note
 |--|--|--|--|--|--|
 | First Secretary | Aung Soe Moe | Yes | [CRPH_International Relations Office](https://facebook.com/story.php?story_fbid=111582130987636&id=101438218668694) | [Imgur](https://imgur.com/a/Pi7PvWY) | 
 | Second Secretary | Eindra Than | Yes | [CRPH_International Relations Office](https://facebook.com/story.php?story_fbid=111574067655109&id=101438218668694) | [Imgur](https://imgur.com/a/mSVRtrT) | 
