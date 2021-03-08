@@ -200,7 +200,7 @@
 ## United Kingdom - London
 | Title  | Name  | CDM | Source | Screenshot Proof | Note
 |--|--|--|--|--|--|
-| Ambassdor | Kyaw Zwar Min  |  |  |  | 
+| Ambassdor | Kyaw Zwar Min  | Unclear |  |  | Called for release for State Counsellor and President on March 08 - [Myanmar Embassy London FB Page](https://www.facebook.com/mm.embassy.london/photos/a.125048915543828/483731416342241/), [Imgur Mirror](https://imgur.com/a/8PbxPFh)
 
 ## United States - Washington DC
 | Title  | Name  | CDM | Source | Screenshot Proof | Education
