@@ -110,6 +110,7 @@
 | Ambassador | Hmway Hmway Khyne |  |  |  |
 | First Secretary | Aung Soe Moe | Yes | [CRPH_International Relations Office](https://facebook.com/story.php?story_fbid=111582130987636&id=101438218668694) | [Imgur](https://imgur.com/a/Pi7PvWY) | 
 | Second Secretary | Eindra Than | Yes | [CRPH_International Relations Office](https://facebook.com/story.php?story_fbid=111574067655109&id=101438218668694) | [Imgur](https://imgur.com/a/mSVRtrT) | 
+| Local Staff Translator | Thidar Kyi | Yes | [CRPH_International Relations Office](https://facebook.com/story.php?story_fbid=112370204242162&id=101438218668694) | [Imgur](https://imgur.com/a/fToq4c3) | 
 
 ## Kuwait - Kuwait
 | Title  | Name  | CDM | Source | Screenshot Proof | Note
