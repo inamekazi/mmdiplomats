@@ -77,6 +77,8 @@
 | Title  | Name  | CDM | Source | Screenshot Proof | Note
 |--|--|--|--|--|--|
 | Ambassador | Kyaw Zeya |  |  |  |
+| Second Secertary | Wutt Yee Phyo Chit | Yes | [CRPH_International Relations Office](https://www.facebook.com/story.php?story_fbid=117072143771968&id=101438218668694) | [Imgur](https://imgur.com/a/bpDofof) |
+| Second Secertary | Phe Grace Mee | Yes | [CRPH_International Relations Office](https://www.facebook.com/story.php?story_fbid=117071667105349&id=101438218668694) | [Imgur](https://imgur.com/a/Y3aCL9N) |
 
 ## Germany - Berlin
 | Title  | Name  | CDM | Source | Screenshot Proof | Note
