@@ -1,7 +1,7 @@
 # Tracking Myanmar Diplomats who are with the People
 > This does not include the new illegal assignments of the illegitimate Military junta SAC
 
-### CDM Count - 14
+### CDM Count - 16
 
 ## Australia - Canberra
 | Title  | Name  | CDM | Source | Screenshot Proof | Note
